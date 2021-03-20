@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794235035599",
+    "project_id": "medicmob-57ba3",
+    "storage_bucket": "medicmob-57ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794235035599:android:5b997f61d0ef4979a6fcba",
+        "android_client_info": {
+          "package_name": "com.example.medicmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794235035599-mg8p5ltnsu5ndf2nq6fcdopk9i9qsg3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1PR0GVPFqkk2sxHR0csdGAUAuS_iAM2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794235035599-mg8p5ltnsu5ndf2nq6fcdopk9i9qsg3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
